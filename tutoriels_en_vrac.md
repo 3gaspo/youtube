@@ -1,3 +1,4 @@
-Chaine youtube de tutoriels.
+Chaine youtube de tutoriels informatique.
 
-[Lien de la chaine](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA)
+Lien :
+[Tutoriels en vac](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA)
